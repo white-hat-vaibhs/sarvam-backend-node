@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sarvam-287110",
+  "private_key_id": "e515e4976dbeb09d71f6e492602c1357ba79cbe3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDUdxONrjoj72x+\nGF0lBvqjT/1IBd9bIkyzs5pxGb0nHUSOONTxdkL5R6SYMQDdzAxJBlzhyc4SbQ/3\nTg+HEXZqKC9WOCbmp3/AebKCRQiq0JRSS4pTOvkx+EgJqId/xbYl21Ah9oT1MjcG\nB+3RWW82efpK+SH9hQkvSVRrD6qT8VzhmxofHxlY3ZIZIQUGybYE9CX+QEN/Ehp+\ng+4QqPLgjIEsemB1ioHrSNLtMmHwEY1U2IcxkVxKGNImItJc8+2dw6dSu2woRH7y\nkGy4O2XIwu410W0MSwgTCxb0YhgTgGg9WtOkLMGoPje3hJUC9cDCgYDSiEuI43WA\nMzP8c8TXAgMBAAECggEAB+8HTKlnK1ALxALfDHeutdQDSp0OwVf6Y7covWFeDhGM\n8pM9BBVkcBLcBwrYe2/JKLtiF+gFZrE0MliuzA+eGl3vUahu0ZhGEqlu21RNNwOw\nIURqZg547itfHx5wFwTjKDNZZejPJx+RXh81Xg425HZWMsxaekTjfJrbAYZKi5Pz\n8MECxiZf7cn4sSfoSymEPy3jgqeBF3/dS7gP8c196miUR3wuJb/kzZjWkSek2oww\nt2I5X82HYEPriuUYNtsenGJhMms3ewwAhvhad6u5eryCO4sHV5ha70CztJ9W7lEH\n3EJnVtTe139RPQ2pBCgCirtH+NdL+QmySgLZG6OMIQKBgQD96mDYIv3Ozz+2Mblh\nAd8Wbtbms13o8F2VpNRJh1SvBqcdmjDI9JIyMfTGxfN/yNFh7NxKSihVAhFhQQdF\nt/0TN5y812P7NSube9GyqilpP7CPOqgjExKSNvF+um0MYPdgAElLQ1YBc7Sq3diz\nPhEy5v1uE6KY98DWzTS8LgWSCQKBgQDWNZZMPmluJsvuyt9m7cs46tEFPA1uNx7g\n4nW5nfSmjBSNMt56vGINdKmZhQyGm/sHOWSGdvd+cYLqJ68wLRKbG1N5eEnu4t1a\n0xQAPIMh67n24fSihPG0vv4aadKeu1erviStgXBE4+RafKtcESpX2bdB725wkIKP\nP2+iJVTX3wKBgAO5KRxiPviGX3fLeN1sSpoom+wcGzdsNuMX3KkLW/mJDnBHr4ly\n1KX5x44WnwBzsGZQM9a/CaJdemXDr1idXw+mFB1Mx0GKwQ3xndyR1DOf5HXlNUv2\nXqJYPehO0YSJ83ar6mc5IIy65p5OzHusYFIvwu2XSh4WG/TKY4iS4DAJAoGBAL35\nJGRV7ZbdHXuXvG1Cczr1NY6Y5ahbhi0XaiTGK1URYqCe/qSHMcaRMmCOmL9A0m5j\nvf1qwLAI53vW2g21y4x3vZ46ygbseDe2f0R+ZiXNM036ssT3do0/3Yd7Vmmj6GrN\n5SVjaDgQjFKbwjWSm6Tx1w7I039NCh0Uu2JoDUitAoGAUf9ZHt3F4iwfyYq7x3MY\nVcEj6QdP1gfS+WWcwAvW9iSPrThGfnWjYyywT98FtnU227gujf1M8ll4q3Qn9OtJ\n8jzKi6XiWPiTiVlcP94hkGvvrqa4kEgKj9KApn2DK/QNee+r6+FNEl/ERvH3k3Pw\nP+a47FVu8ELcDfIkPfghcho=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sarvam-bucket-1@sarvam-287110.iam.gserviceaccount.com",
+  "client_id": "116879830875821433078",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sarvam-bucket-1%40sarvam-287110.iam.gserviceaccount.com"
+}
